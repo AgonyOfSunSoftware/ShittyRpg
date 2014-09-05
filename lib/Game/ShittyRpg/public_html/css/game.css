@@ -6,6 +6,8 @@ All rights reserved.
     Created on : 04.09.2014, 14:44:53
     Author     : Demigod
 */
+body {
+}
 
 #stage-canvas {
     background-color: darkgrey;
