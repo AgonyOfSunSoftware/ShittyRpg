@@ -8,5 +8,7 @@ All rights reserved.
 */
 
 #stage-canvas {
-    background-color: darkolivegreen;
+    background-color: darkgrey;
+    height: 100%;
+    width: 100%;
 }
